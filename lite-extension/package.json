@@ -1,0 +1,13 @@
+{
+  "name": "lite-extension",
+  "version": "0.1.0",
+  "description": "A JupyterLite extension to compress and decompress notebook text",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "echo 'Building...'"
+  },
+  "dependencies": {
+    "@jupyterlite/server": "^0.1.0",
+    "lz-string": "^1.4.4"
+  }
+}
