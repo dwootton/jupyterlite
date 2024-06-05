@@ -7,7 +7,7 @@ setup(
     include_package_data=True,
     data_files=[
         ('share/jupyter/labextensions/lite-extension', [
-            'lib/index.js'
+            'lite-lib/index.js'
         ])
     ],
     zip_safe=False,
