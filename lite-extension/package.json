@@ -8,6 +8,9 @@
   },
   "dependencies": {
     "@jupyterlite/server": "^0.1.0",
-    "lz-string": "^1.4.4"
+    "lz-string": "^1.4.4",
+    "@jupyterlab/notebook": "^3.0.0",
+    "@jupyterlab/apputils": "^3.0.0",
+    "@jupyterlab/application": "^3.0.0"
   }
 }
