@@ -1,21 +1,8 @@
-jupyterlite
-jupyterlab~=4.1.6
-notebook~=7.1.2
-jupyterlite-pyodide-kernel
-jupyterlite-javascript-kernel
-jupyterlab-language-pack-fr-FR
-jupyterlab-language-pack-zh-CN
-jupyterlite-p5-kernel
-jupyterlab-fasta>=3.3.0,<4
-jupyterlab-geojson>=3.4.0,<4
-jupyterlab-night
-jupyterlab_miami_nights
-ipywidgets>=8.1.1,<9
-ipyevents>=2.0.1
-ipympl>=0.8.2
-ipycanvas>=0.9.1
-ipyleaflet
-plotly>=5,<6
-bqplot
+# core package for building the JupyterLite website
+jupyterlite-core==0.1.0b19
+# the Python kernel powered by Pyodide
+jupyterlite-pyodide-kernel==0.0.5
+# dependency for indexing the content
+jupyterlab~=3.5.3
 notebook_to_url_ext
 notebook-to-url-ext
