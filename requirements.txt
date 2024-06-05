@@ -44,4 +44,5 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 
-./lite-extension
+
+notebook_to_url_ext
