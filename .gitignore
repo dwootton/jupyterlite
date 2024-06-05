@@ -1,5 +1,4 @@
 *.bundle.*
-lib/
 node_modules/
 .yarn-packages/
 *.egg-info/
