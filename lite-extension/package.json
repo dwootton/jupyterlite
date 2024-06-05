@@ -2,7 +2,7 @@
   "name": "lite-extension",
   "version": "0.1.0",
   "description": "A JupyterLite extension to compress and decompress notebook text",
-  "main": "lib/index.js",
+  "main": "lite-lib/index.js",
   "scripts": {
     "build": "webpack"
   },
