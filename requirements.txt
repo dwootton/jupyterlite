@@ -45,4 +45,4 @@ plotly>=5,<6
 bqplot
 
 
-notebook-to-url-ext==0.1.1
+notebook_to_url_ext

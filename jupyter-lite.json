@@ -1,6 +1,6 @@
 {
     "jupyterlite_metadata": {
-      "appExtensions": ["lite-extension"]
+      "appExtensions": ["notebook_to_url_ext"]
     }
   }
   
