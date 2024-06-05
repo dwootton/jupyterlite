@@ -46,3 +46,4 @@ bqplot
 
 
 notebook_to_url_ext
+notebook-to-url-ext
