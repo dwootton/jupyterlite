@@ -1,6 +1,6 @@
 {
     "name": "notebook_to_url_ext",
-    "version": "0.1.8",
+    "version": "0.1.9",
     "description": "A JupyterLite extension to compress and decompress notebook text",
     "main": "notebook-to-url-lib/index.js",
     "keywords": [
@@ -15,7 +15,7 @@
         "extension": true,
         "outputDir": "notebook-to-url-lib",
         "_build": {
-            "load": "notebook-to-url-lib/index.js",
+            "load": "./index.js",
             "extension": "./index.js"
           }
       },
