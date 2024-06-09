@@ -3,6 +3,7 @@ jupyterlite-core==0.1.0b19
 # the Python kernel powered by Pyodide
 jupyterlite-pyodide-kernel==0.0.5
 # dependency for indexing the content
+
 jupyterlab
 
-notebook-url==0.1.2
+notebook-url==0.2.0
