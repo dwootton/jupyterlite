@@ -8,3 +8,4 @@ jupyterlab
 
 notebook-url==0.2.4
 
+pyviz_comms
