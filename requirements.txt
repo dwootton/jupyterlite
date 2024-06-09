@@ -6,6 +6,6 @@ jupyterlite-pyodide-kernel==0.0.5
 
 jupyterlab
 
-notebook-url==0.2.6
+notebook-url==0.2.7
 
 pyviz_comms
