@@ -13,10 +13,9 @@
     },
     "jupyterlab": {
         "extension": true,
-        "liteExtension":true,
+        "liteExtension":false,
         "outputDir": "notebook-to-url-lib",
         "_build": {
-            "liteExtension":true,
             "load": "./index.js",
             "extension": "./index.js"
           }
