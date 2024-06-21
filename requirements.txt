@@ -1,7 +1,7 @@
-# core package for building the JupyterLite website
-jupyterlite-core#==0.1.0b19
-# the Python kernel powered by Pyodide
-jupyterlite-pyodide-kernel#==0.0.5
+# core package for building the JupyterLite website #==0.1.0b19
+jupyterlite-core
+# the Python kernel powered by Pyodide #==0.0.5
+jupyterlite-pyodide-kernel
 # dependency for indexing the content
 
 
