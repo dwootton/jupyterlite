@@ -44,7 +44,7 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 
-ephemeral-notebooks==0.3.14
+ephemeral-notebooks==0.3.16
 
 
 #jupyterlab-rise
