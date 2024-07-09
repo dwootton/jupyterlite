@@ -42,6 +42,7 @@ ipyleaflet
 
 
 nblink==0.1.9
+anywidget=0.9.13
 
 
 # Python: plotting libraries (optional)
