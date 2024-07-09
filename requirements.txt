@@ -40,11 +40,14 @@ ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
 
+
+nblink==0.0.2
+
+
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
 
-nblink==0.1.4
 
 
 #jupyterlab-rise

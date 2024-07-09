@@ -10,8 +10,8 @@
         {
           "test": {},
           "use": [
-            "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/style-loader/dist/cjs.js",
-            "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/css-loader/dist/cjs.js"
+            "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/style-loader/dist/cjs.js",
+            "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/css-loader/dist/cjs.js"
           ]
         },
         {
@@ -88,8 +88,8 @@
         "url": false,
         "buffer": false,
         "crypto": false,
-        "path": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/path-browserify/index.js",
-        "process": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/process/browser.js"
+        "path": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/path-browserify/index.js",
+        "process": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/process/browser.js"
       }
     },
     "watchOptions": {
@@ -98,7 +98,7 @@
     },
     "output": {
       "hashFunction": "sha256",
-      "path": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/build",
+      "path": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/build",
       "publicPath": "{{page_config.fullStaticUrl}}/",
       "filename": "[name].[contenthash].js"
     },
@@ -119,14 +119,14 @@
       {
         "userOptions": {
           "chunksSortMode": "none",
-          "template": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/templates/template.html",
+          "template": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/templates/template.html",
           "title": "JupyterLab"
         },
         "version": 5
       },
       {},
       {
-        "buildDir": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/build",
+        "buildDir": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/build",
         "staticDir": "../static",
         "_first": true
       },
@@ -645,7 +645,7 @@
     "entry": {
       "main": [
         "./publicpath",
-        "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/build/bootstrap.js"
+        "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/build/bootstrap.js"
       ]
     },
     "optimization": {
@@ -667,10 +667,10 @@
   {
     "mode": "production",
     "entry": {
-      "index": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/@jupyterlab/theme-dark-extension/style/theme.css"
+      "index": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/@jupyterlab/theme-dark-extension/style/theme.css"
     },
     "output": {
-      "path": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/themes/@jupyterlab/theme-dark-extension",
+      "path": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/themes/@jupyterlab/theme-dark-extension",
       "filename": "[name].js",
       "hashFunction": "sha256"
     },
@@ -679,8 +679,8 @@
         {
           "test": {},
           "use": [
-            "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/mini-css-extract-plugin/dist/loader.js",
-            "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/css-loader/dist/cjs.js"
+            "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/mini-css-extract-plugin/dist/loader.js",
+            "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/css-loader/dist/cjs.js"
           ]
         },
         {
@@ -712,10 +712,10 @@
   {
     "mode": "production",
     "entry": {
-      "index": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/@jupyterlab/theme-dark-high-contrast-extension/style/theme.css"
+      "index": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/@jupyterlab/theme-dark-high-contrast-extension/style/theme.css"
     },
     "output": {
-      "path": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/themes/@jupyterlab/theme-dark-high-contrast-extension",
+      "path": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/themes/@jupyterlab/theme-dark-high-contrast-extension",
       "filename": "[name].js",
       "hashFunction": "sha256"
     },
@@ -724,8 +724,8 @@
         {
           "test": {},
           "use": [
-            "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/mini-css-extract-plugin/dist/loader.js",
-            "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/css-loader/dist/cjs.js"
+            "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/mini-css-extract-plugin/dist/loader.js",
+            "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/css-loader/dist/cjs.js"
           ]
         },
         {
@@ -757,10 +757,10 @@
   {
     "mode": "production",
     "entry": {
-      "index": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/@jupyterlab/theme-light-extension/style/theme.css"
+      "index": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/@jupyterlab/theme-light-extension/style/theme.css"
     },
     "output": {
-      "path": "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/themes/@jupyterlab/theme-light-extension",
+      "path": "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/themes/@jupyterlab/theme-light-extension",
       "filename": "[name].js",
       "hashFunction": "sha256"
     },
@@ -769,8 +769,8 @@
         {
           "test": {},
           "use": [
-            "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/mini-css-extract-plugin/dist/loader.js",
-            "/home/runner/work/jupyterlab/jupyterlab/.jupyter_releaser_checkout/jupyterlab/staging/node_modules/css-loader/dist/cjs.js"
+            "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/mini-css-extract-plugin/dist/loader.js",
+            "/Users/dylanwootton/Documents/GitHub/jupyterlite/env/share/jupyter/lab/staging/node_modules/css-loader/dist/cjs.js"
           ]
         },
         {
