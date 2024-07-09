@@ -41,7 +41,7 @@ ipycanvas>=0.9.1
 ipyleaflet
 
 
-nblink==0.0.2
+nblink==0.1.6
 
 
 # Python: plotting libraries (optional)
