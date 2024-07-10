@@ -41,9 +41,7 @@ ipycanvas>=0.9.1
 ipyleaflet
 
 
-nblink==0.1.9
-anywidget==0.9.13
-
+nblink==0.1.10
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
